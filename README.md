@@ -17,13 +17,9 @@ About Me
 
  Currently Working On
 
-**Personal Portfolio Website**
-
 - Creating a responsive portfolio using HTML, CSS and JavaScript.
 - Practicing layouts, navigation and responsive design.
 - Improving my frontend development skills through hands-on projects.
-
- Tech Stack
 
 **Familiar With**
 
