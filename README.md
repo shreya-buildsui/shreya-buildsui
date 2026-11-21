@@ -1,41 +1,35 @@
+<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
 
-<h1 align="center">Hi, I'm Shreya Mohan 👋</h1>
+###
 
-<h3 align="center">
-Frontend developer in training, focused on HTML, CSS and JavaScript.
-</h3>
+<p data-importer="text" align="left">My name is Shreya Mohan and I'm a Frontend developer in training, focused on HTML, CSS and JavaScript, now focused on building responsive and user-friendly web interfaces.</p>
 
-<p align="center">
-  Focused on building responsive and user-friendly web interfaces.
-</p>
+###
 
-About Me
+<h2 data-importer="text" align="left">About me</h2>
 
-- Learning frontend development with HTML, CSS and JavaScript.
-- Building responsive websites and practicing UI development.
-- Exploring React to expand my frontend skills.
+###
 
- Currently Working On
+<p data-importer="text" align="left">✨ Creating bugs since my first line of code!<br>📚 I'm currently learning Frontend Development and UI/UX Design.<br>🎯 Goals: Build responsive websites and become a skilled Frontend Developer.<br>🎲 Fun fact: I like to turn creative ideas into real web projects!</p>
 
-- Creating a responsive portfolio using HTML, CSS and JavaScript.
-- Practicing layouts, navigation and responsive design.
-- Improving my frontend development skills through hands-on projects.
+###
 
-**Familiar With**
+<h2 data-importer="text" align="left">I code with</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+###
 
-**Tools**
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=github,vscode" />
-</p>
-Connect With Me
-
-<p align="center">
-  <a href="https://github.com/shreya-buildsui">GitHub</a>
-  |
-  <a href="https://www.linkedin.com/in/shreya-mohan-tech">LinkedIn</a>
-</p>
+###
