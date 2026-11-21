@@ -1,13 +1,13 @@
 
-<h1 align="center">Hi 👋, I'm Shreya Mohan</h1>
+<h1 align="center">Hey, I'm Shreya Mohan</h1>
 
-<h3 align="center">Aspiring Developer | Tech Enthusiast 💻</h3>
+<h3 align="center">Aspiring Developer | Tech Enthusiast </h3>
 
 <p align="center">
-  Welcome to my GitHub profile! 🚀
+  Welcome to my GitHub profile! 
 </p>
 
-👩‍💻 About Me
+ About Me
 
 - 🎓 I'm a passionate learner.
 - 💻 Interested in software development.
@@ -33,4 +33,4 @@
   </a>
 </p>
 
-<h3 align="center">✨ Keep Learning | Keep Building | Keep Growing ✨</h3>
+<h3 align="center">Keep Learning | Keep Building | Keep Growing </h3>
