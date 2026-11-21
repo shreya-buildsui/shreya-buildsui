@@ -1,36 +1,45 @@
 
-<h1 align="center">Hey, I'm Shreya Mohan</h1>
+<h1 align="center">Hi, I'm Shreya Mohan 👋</h1>
 
-<h3 align="center">Aspiring Developer | Tech Enthusiast </h3>
+<h3 align="center">
+Frontend developer in training, focused on HTML, CSS and JavaScript.
+</h3>
 
 <p align="center">
-  Welcome to my GitHub profile! 
+  Focused on building responsive and user-friendly web interfaces.
 </p>
 
- About Me
+About Me
 
-- 🎓 I'm a passionate learner.
-- 💻 Interested in software development.
-- 🌱 Currently learning programming.
-- 🚀 Building projects and improving my skills.
-- 🎯 Always excited to explore new technologies.
+- Learning frontend development with HTML, CSS and JavaScript.
+- Building responsive websites and practicing UI development.
+- Exploring React to expand my frontend skills.
 
-🛠️ Languages & Tools
+ Currently Working On
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode" />
+**Personal Portfolio Website**
+
+- Creating a responsive portfolio using HTML, CSS and JavaScript.
+- Practicing layouts, navigation and responsive design.
+- Improving my frontend development skills through hands-on projects.
+
+ Tech Stack
+
+**Familiar With**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
- 🌐 Connect With Me
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
+</p>
+Connect With Me
 
 <p align="center">
-  <a href="https://github.com/shreya-buildsui">
-    GitHub
-  </a>
+  <a href="https://github.com/shreya-buildsui">GitHub</a>
   |
-  <a href="https://www.linkedin.com/in/shreya-mohan-tech">
-    LinkedIn
-  </a>
+  <a href="https://www.linkedin.com/in/shreya-mohan-tech">LinkedIn</a>
 </p>
-
-<h3 align="center">Keep Learning | Keep Building | Keep Growing </h3>
